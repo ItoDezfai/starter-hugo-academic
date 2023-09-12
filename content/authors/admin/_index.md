@@ -58,4 +58,4 @@ My research interests include technology-enabled business models, R&D operations
 
 As former R&D program manager, successfully landed several new digital services and founded the Space & Defence Italy AI capability building team.
 
-Experienced in all critical sectors (space, health, finance, energy, transportation, government).{style="text-align: justify;"}
+Experienced in all critical sectors (space, health, finance, energy, transportation, government).
