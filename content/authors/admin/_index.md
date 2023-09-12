@@ -54,8 +54,10 @@ email: ""
 ---
 I am an Innovation Manager at RINA Consulting S.p.A. 
 
-My research interests include technology-enabled business models, R&D operations and innovation strategy. I founded and currently lead the Industry Innovation Strategic Centre group, which manage business innovation and develop new engineering advisory services for the markets of aerospace and defence, manufacturing, and cybersecurity.
+My research interests include technology-enabled business models, R&D operations and innovation strategy. I founded and currently lead the Industry Innovation Strategic Centre, which manage business innovation and develop new engineering advisory services for the markets of aerospace and defence, manufacturing, and cybersecurity.
 
-As former R&D program manager, successfully landed several new digital services and founded the Space & Defence Italy AI capability building team.
+As former R&D program manager, I successfully landed several new digital services from R&D outcomes and founded the Space & Defence Italy AI capability building team.
 
 Experienced in all critical sectors (space, health, finance, energy, transportation, government).
+
+I﻿n my spare time, I code and play with drones, AI, blockchain and crypto.
