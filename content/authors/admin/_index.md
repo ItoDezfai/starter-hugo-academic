@@ -16,7 +16,7 @@ social:
   - display:
       header: false
     link: https://www.researchgate.net/profile/Ivan-Tesfai
-    icon_pack: fab
+    icon_pack: fas
     icon: graduation-cap
   - icon: github
     icon_pack: fab
