@@ -1,7 +1,7 @@
 ---
 title: Ivan Tesfai
 role: Innovation Manager & Tech Enthusiast
-avatar_filename: 2023-03-10-12-32-22-677-copy.jpg
+avatar_filename: 2023-03-10-12-32-22-677-copy-copy.jpg
 bio: My research interests include business innovation strategy, R&D operations
   and technology enablers for new products and services
 interests:
