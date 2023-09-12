@@ -1,6 +1,7 @@
 ---
 title: Ivan Tesfai
 role: Innovation Manager & Tech Enthusiast
+avatar_filename: 2023-03-10-12-32-22-677-copy.jpg
 bio: My research interests include business innovation strategy, R&D operations
   and technology enablers for new products and services
 interests:
@@ -12,6 +13,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Ivan-Tesfai
+    icon_pack: fab
+    icon: graduation-cap
   - icon: github
     icon_pack: fab
     link: https://github.com/ItoDezfai
@@ -24,19 +30,20 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RINA
+    url: https://www.rina.org/en
+  - name: Networld Europe ETP
+    url: https://www.networldeurope.eu/
+  - name: PANACEA Healthcare Cybersecurity Advisory Services
+    url: https://www.panacearesearch.eu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MEng in Biomechanics and Biomaterial
+      institution: Politecnico di Milano
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Biomedical Engineering
+      institution: Politecnico di Milano
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 status:
   icon: ☕️
